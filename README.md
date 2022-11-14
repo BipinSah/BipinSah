@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm PRASANT GUPTA</h1>
-<h2 align="center">B.Tech Student @ Jalpaiguri Government Engineering College</h2>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm BIPIN KUMAR SAH</h1>
+<h2 align="center">B.Sc Graduate @ Acharya Prafulla Chandra Roy Government College</h2>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
 </div >
