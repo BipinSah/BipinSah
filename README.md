@@ -8,7 +8,7 @@
 
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
 
-<p align="left"> <a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Prasant Gupta" width="150" height="30" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Bipin Sah" width="150" height="30" /></a> </p>
 
 
 
@@ -34,9 +34,6 @@
 ## <img src="./assets/coding.png" height=20/> Coding Profiles
 <a href="https://www.codechef.com/users/prasantgupta52" target="blank"><img align="center" src="./assets/codechef.jpg" alt="prasantgupta52" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prasantgupta52" target="blank"><img align="center" src="./assets/Hackerearth.png" alt="@prasantgupta52" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prasantgupta52" height="30" width="40" /></a>
 </p>
 
@@ -46,12 +43,12 @@
 ## <img src="./assets/github.png" height=25/> Github Stats
 
 <p align="center">
-<a href="https://github.com/prasantgupta52">
+<a href="https://github.com/BipinSah">
 <img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasantgupta52&theme=react" alt="prasantgupta52" />
 <br />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prasantgupta52&layout=compact&langs_count=8&theme=algolia" alt="prasantgupta52" />
-<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prasantgupta52&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="prasantgupta52" />
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=prasantgupta52&theme=react-dark" />
+<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BipinSah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="BipinSah" />
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=BipinSah&theme=react-dark" />
 
 </a>
 </p>
