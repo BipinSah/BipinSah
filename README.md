@@ -1,39 +1,35 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm BIPIN KUMAR SAH</h1>
-<h2 align="center">B.Sc Graduate @ Acharya Prafulla Chandra Roy Government College</h2>
+<h2 align="center">B.Sc Comp.Sci. Graduate @ Acharya Prafulla Chandra Roy Government College</h2>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=A+Passionate+Competitive+Programmer;An+Aspiring+Web+Developer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Competitive+Programmer;Cloud+Enthusiast;Open+Source+Contributor">
 </div >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=1A77B1&style=flat" alt="prasantgupta52" /> </p>
 
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
 
-<p align="left"> <a href="https://www.linkedin.com/in/prasantgupta52/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Prasant Gupta" width="150" height="30" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img src="https://www.godrejproperties.com/backoffice/data_content/projects/comingsoon_to_south_delhi_delhi/landing_page/images/connect-linkedin.png" alt="Prasant Gupta" width="150" height="30" /></a> </p>
 
 
 
 # 💫 About Me:
 🔭 I’m currently learning **Data Structures & Algorithms**
 
-🌱 I’m currently Exploring **MERN Stack Web Development**
+🌱 A **Cloud Enthusiast** with 50+ *Skill Badges* on GCP.
 
-👨‍💻 All of my projects are available at **[prasantgupta52](https://github.com/prasantgupta52)**
-
-📫 How to reach me **[pg2421@it.jgec.ac.in](mailto:pg2421@it.jgec.ac.in)**
-
-📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-lvepAaMa-GClTFX4uCyRSZ0kdSMP4aH/view?usp=sharing)**
+📫 How to reach me **[bipinsah745@gmail.com](mailto:bipinsah745@gmail.com)**
 
 😄 Pronouns: **He/His**
 
-⚡ Fun fact **hui hui**
+⚡ Fun fact **Loves to Sing**
 
 
 ## <img src="./assets/connect.png" height=20/> Connect with me
 <p align="left">
-<a href="https://twitter.com/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://fb.com/prasantgupta5247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasantgupta5247" height="30" width="40" /></a>
-<a href="https://instagram.com/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://twitter.com/BipinSah745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://www.facebook.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasantgupta5247" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasantgupta52" height="30" width="40" /></a>
 
 ## <img src="./assets/coding.png" height=20/> Coding Profiles
 <a href="https://www.codechef.com/users/prasantgupta52" target="blank"><img align="center" src="./assets/codechef.jpg" alt="prasantgupta52" height="30" width="40" /></a>
@@ -60,6 +56,6 @@
 </a>
 </p>
 
-## <img src="./assets/Hacktober_Fest.jpg" height=20 /> Hacktober Fest 2022
+## <img src="./assets/Hacktober_Fest.jpg" height=20 /> HacktoberFest 2022
 
-[![@prasantgupta52's Holopin board](https://holopin.me/prasantgupta52)](https://holopin.io/@prasantgupta52)
+[![@bipinsah's Holopin board](https://holopin.me/bipinsah)](https://holopin.io/@bipinsah)
