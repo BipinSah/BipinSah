@@ -26,8 +26,8 @@
 
 ## <img src="./assets/connect.png" height=20/> Connect with me
 <p align="left">
-<a href="https://twitter.com/BipinSah745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://twitter.com/BipinSah745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasantgupt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bipin Sah" height="30" width="40" /></a>
 <a href="https://www.facebook.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasantgupta5247" height="30" width="40" /></a>
 <a href="https://www.instagram.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasantgupta52" height="30" width="40" /></a>
 
