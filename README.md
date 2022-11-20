@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Competitive+Programmer;Cloud+Enthusiast;Open+Source+Contributor">
 </div >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasantgupta52&label=Profile%20views&color=1A77B1&style=flat" alt="prasantgupta52" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BipinSah&label=Profile%20views&color=1A77B1&style=flat" alt="BipinSah" /> </p>
 
 <img src="./assets/undraw_illustrations.gif" width=400 align=right />
 
@@ -26,14 +26,14 @@
 
 ## <img src="./assets/connect.png" height=20/> Connect with me
 <p align="left">
-<a href="https://twitter.com/BipinSah745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasantgupt" height="30" width="40" /></a>
+<a href="https://twitter.com/BipinSah745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BipinSah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bipinkumarsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bipin Sah" height="30" width="40" /></a>
-<a href="https://www.facebook.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasantgupta5247" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://www.facebook.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BipinSah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BipinSah" height="30" width="40" /></a>
 
 ## <img src="./assets/coding.png" height=20/> Coding Profiles
-<a href="https://www.codechef.com/users/prasantgupta52" target="blank"><img align="center" src="./assets/codechef.jpg" alt="prasantgupta52" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasantgupta52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasantgupta52" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/BipinSah" target="blank"><img align="center" src="./assets/codechef.jpg" alt="BipinSah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/BipinSah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="BipinSah" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bipinsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bipinsah" height="30" width="40" /></a>
 </p>
 
@@ -44,9 +44,9 @@
 
 <p align="center">
 <a href="https://github.com/BipinSah">
-<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasantgupta52&theme=react" alt="prasantgupta52" />
+<img  height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BipinSah&theme=react" alt="BipinSah" />
 <br />
-<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prasantgupta52&layout=compact&langs_count=8&theme=algolia" alt="prasantgupta52" />
+<img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BipinSah&layout=compact&langs_count=8&theme=algolia" alt="BipinSah" />
 <img  height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BipinSah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="BipinSah" />
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=BipinSah&theme=react-dark" />
 
