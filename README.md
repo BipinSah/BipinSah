@@ -32,7 +32,7 @@
 <a href="https://www.instagram.com/iambipinsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BipinSah" height="30" width="40" /></a>
 
 ## <img src="./assets/coding.png" height=20/> Coding Profiles
-<a href="https://www.codechef.com/users/BipinSah" target="blank"><img align="center" src="./assets/codechef.jpg" alt="BipinSah" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/Bipin_Sah" target="blank"><img align="center" src="./assets/codechef.jpg" alt="BipinSah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/BipinSah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="BipinSah" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bipinsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bipinsah" height="30" width="40" /></a>
 </p>
