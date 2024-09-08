@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm BIPIN KUMAR SAH</h1>
-<h2 align="center">B.Sc Comp.Sci. Graduate @ Acharya Prafulla Chandra Roy Government College</h2>
+<h2 align="center">MCA'26 @JSSATE NOIDA</h2>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=650&lines=Competitive+Programmer;Cloud+Enthusiast;Open+Source+Contributor">
 </div >
